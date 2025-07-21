@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- <h2 align="left">Hey 👋 What's up?</h2> -->
 
 
-![myusufkn](img/github-header.png)
+<!-- ![myusufkn](img/github-header.png) -->
 
 
 <!-- <h5 align="left">I code with</h5> -->
